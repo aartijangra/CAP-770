@@ -3,22 +3,15 @@ using namespace std;
 
 void trav(int arr[])
 {   
+    int max1=-1, max2=-1, max3=-1;
     int sum=0;
-    int smallest=arr[0];
-    int max1, max2, max3;
 
-    for(int i=1; i<4; i++ ){
-       if(arr[i]<arr[0]){
-        int temp=arr[i];
-        arr[i]=arr[0];
-        arr[0]=temp;
+    for(int i=1; i<=4; i++ ){
+       if(arr[i]>max1){
+        
        }
     }
-    for(int i=4; i>smallest; i-- ){
-        cout<<arr[i]<<" ";
-        sum+=i;
-    }
-    cout<<endl;
+    sum=max1+max2+max3;
     cout<<"sum is: "<<sum;
 
 }
