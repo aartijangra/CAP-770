@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Aarti Jangra/Desktop/CAP-770",
-      "program": "c:/Users/Aarti Jangra/Desktop/CAP-770/build/Debug/outDebug",
+      "cwd": "d:/Developer/CAP-770",
+      "program": "d:/Developer/CAP-770/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
